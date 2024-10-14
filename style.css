@@ -1,0 +1,71 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: rgb(145, 170, 178);
+    background-image: url(https://i.pinimg.com/originals/33/60/62/3360625518004e8f78125841e8b58115.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: 600px;
+    flex-direction: column;
+    font-family: sans-serif;
+}
+.title {
+    color: white;
+    font-size: 35px;
+    margin-top: -65px;
+}
+.info {
+    color: rgb(255, 255, 255);
+    margin-top: -15px;
+    margin-bottom: 3px;
+    font-size: 11px;
+}
+.time {
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+}
+.time .cub-1 {
+    border: 3px solid white;
+    background-color: white;
+    padding: 20px 15px 5px 15px;
+    border-radius: 5px;
+    margin: 0 3px;
+    color: orangered;
+}
+.time p{
+    text-align: center;
+    font-size: 10px;
+    margin-top: 5px;
+}
+.time h1{
+    font-size: 40px;
+    display: inline;
+}
+.time .cub-2 {
+    border: 3px solid white;
+    background-color: white;
+    padding: 20px 15px 5px 15px;
+    border-radius: 5px;
+    margin: 0 3px;
+    color: orangered;
+}
+.time .cub-3 {
+    border: 3px solid white;
+    background-color: white;
+    padding: 20px 15px 5px 15px;
+    border-radius: 5px;
+    margin: 0 3px;
+    color: orangered;
+}
+.time .cub-4 {
+    border: 3px solid white;
+    background-color: white;
+    padding: 20px 15px 5px 15px;
+    border-radius: 5px;
+    margin: 0 3px;
+    color: orangered;
+}
